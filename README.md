@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi, I'm GOVINDA EKABOTE 👋</h1>
 
-<h3 align="center">Java Backend Developer | Microservices | Spring Boot | Cloud</h3>
+<h3 align="center">Java Full Stack Developer With AI | Microservices | Spring Boot | Cloud | Gen AI </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems+with+Java+%26+Spring;Designing+secure+REST+APIs+and+Microservices;Event-driven+architecture+with+Apache+Kafka;Exploring+AI+integration+with+Spring+AI" alt="Typing SVG" />
@@ -125,32 +125,6 @@ I'm a **Java Developer** who enjoys designing and building reliable, secure, and
 
 ### 🤝 Engineering & Collaboration
 `Problem-Solving` · `Analytical Skills` · `Critical Thinking` · `Teamwork` · `Cross-Functional Collaboration` · `Attention to Detail`
-
----
-
-## 🏗️ Typical Architecture I Work With
-
-```mermaid
-flowchart LR
-    A[React Client] --> B[API Gateway]
-    B --> C[Auth Service<br/>Spring Security + JWT/OAuth2]
-    B --> D[User Service]
-    B --> E[Order Service]
-    E -- events --> F[(Apache Kafka)]
-    F --> G[Notification Service]
-    D --> H[(PostgreSQL / MySQL)]
-    E --> I[(MongoDB)]
-    D --> J[(Redis Cache)]
-    subgraph Deployed on AWS
-        B
-        C
-        D
-        E
-        G
-    end
-```
-
----
 
 ## 📌 Featured Projects
 
